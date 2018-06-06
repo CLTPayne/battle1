@@ -7,4 +7,4 @@ gem 'selenium-webdriver'
 gem "rspec", "~> 3.7"
 
 # Added at 2018-05-31 15:06:51 +0100 by charlottepayne:
-gem "sinatra", "~> 2.0"
+gem "sinatra", "~> 2.0.2"
